@@ -1,0 +1,5 @@
+Font - Romelio
+Color Scheme
+
+Hex Blue #213a6c
+Hex Red #a84f47
