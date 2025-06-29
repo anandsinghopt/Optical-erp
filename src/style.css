@@ -1,8 +1,0 @@
-/* styles.css or global.css */
-.form-input {
-  @apply px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:outline-none;
-}
-
-.form-select {
-  @apply px-4 py-2 border border-gray-300 rounded-md bg-white focus:ring-2 focus:ring-blue-500 focus:outline-none;
-}
